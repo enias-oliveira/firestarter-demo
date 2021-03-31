@@ -12,9 +12,6 @@
       <a mat-list-item routerLink="/" (click)="drawer.close()">Home</a>
       <a mat-list-item routerLink="/login" (click)="drawer.close()">Login</a>
       <a mat-list-item routerLink="/kanban" (click)="drawer.close()">Kanban</a>
-      <a mat-list-item routerLink="/customers" (click)="drawer.close()"
-        >SSR Customers</a
-      >
     </mat-nav-list>
   </mat-sidenav>
   <mat-sidenav-content>
@@ -36,9 +33,6 @@
         <a mat-button routerLink="/kanban" (click)="drawer.close()"
           >🍱 Kanban</a
         >
-        <a mat-button routerLink="/customers" (click)="drawer.close()"
-          >⚡ SSR</a
-        >
         <a mat-button routerLink="/login" (click)="drawer.close()">🔑 Login</a>
       </div>
 
@@ -47,11 +41,11 @@
       </button>
 
       <mat-menu #menu="matMenu">
-        <a mat-menu-item href="github.com">
+        <a mat-menu-item href="http://github.com/enias-oliveira">
           <i>💾</i>
           <span>Code on Github</span>
         </a>
-        <a mat-menu-item href="linkedin.com">
+        <a mat-menu-item href="http://linkedin.com/in/enias-oliveira">
           <i>💼</i>
           <span>My LinkedIn Profile</span>
         </a>
