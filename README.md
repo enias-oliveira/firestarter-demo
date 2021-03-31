@@ -44,17 +44,17 @@ A "Trello-Like" Kanban App built with Angular, that supports user signup, log in
 ## Features
 
 - User authentication with Firebase (Google login or Email/Password)
-[firestore](https://lh3.googleusercontent.com/pw/ACtC-3fcms5C0_FDTPuMr8xt1LcvBpsdJgxPIKr6ToBGw4eJ4nGic3pnCIQYF72HxoOlTq6gbU9srNEWLiFDHmbzkLSgCUlv2FA1p8KbG1YrqdqA_Am4s95sZmiYSgzJJYeE1dDhpJnuE29XLhjoOo4xhsTN=w1919-h936-no?authuser=0)
+![firestore](https://lh3.googleusercontent.com/pw/ACtC-3fcms5C0_FDTPuMr8xt1LcvBpsdJgxPIKr6ToBGw4eJ4nGic3pnCIQYF72HxoOlTq6gbU9srNEWLiFDHmbzkLSgCUlv2FA1p8KbG1YrqdqA_Am4s95sZmiYSgzJJYeE1dDhpJnuE29XLhjoOo4xhsTN=w1919-h936-no?authuser=0)
 
 - Draggable Board creation
-[board](https://lh3.googleusercontent.com/pw/ACtC-3cbZX0RKrSxf3qxjmfuLp9ySslUzW1DQyzuRn2PoRz_emNpWPj8uCHwNPKpRoITk8o3Vg9vWJqvkyw2p1X-LxAKVyds8Hm_Zkvy8dzUYVdJEOvaJoD22gzDfBnIUKAXXxhW7ByFnWlcfLIJ-FTqgfCr=w1904-h939-no?authuser=0)
+![board](https://lh3.googleusercontent.com/pw/ACtC-3cbZX0RKrSxf3qxjmfuLp9ySslUzW1DQyzuRn2PoRz_emNpWPj8uCHwNPKpRoITk8o3Vg9vWJqvkyw2p1X-LxAKVyds8Hm_Zkvy8dzUYVdJEOvaJoD22gzDfBnIUKAXXxhW7ByFnWlcfLIJ-FTqgfCr=w1904-h939-no?authuser=0)
 
 - Draggable Task creation
-[task](https://lh3.googleusercontent.com/pw/ACtC-3emt6TkDwlWfyNknkyXDzspd-PloOlc3CVrGgvL0WVj-kifVMFEH1jxq4QxFCKaFRT166Q7ZqUaC5c5IqIZ0ModqPXf7hMREsQKZYtYVMJoouT_FeRgBerP4IqdUFkiNSGeuJTJIWJT3DJ3ZdusFRbK=w1912-h948-no?authuser=0)
+![task](https://lh3.googleusercontent.com/pw/ACtC-3emt6TkDwlWfyNknkyXDzspd-PloOlc3CVrGgvL0WVj-kifVMFEH1jxq4QxFCKaFRT166Q7ZqUaC5c5IqIZ0ModqPXf7hMREsQKZYtYVMJoouT_FeRgBerP4IqdUFkiNSGeuJTJIWJT3DJ3ZdusFRbK=w1912-h948-no?authuser=0)
 
 - Responsive Design
-[responsive](https://lh3.googleusercontent.com/pw/ACtC-3dWyaWmdDYXXYJhAJo0SxePoxdm521UZx1jpQHvBSIWPWtWzr2y--VwuOx4guHjjzRJr8DmtDjBqRhvSy-BJOYxsb0e56xouW9drHBg65mR0Y7_88NLp6sVAgzLbKIluHebOOKM6spyShm0MbFcUU0U=w453-h879-no?authuser=0)
-[responsive2](https://lh3.googleusercontent.com/pw/ACtC-3eZ7V3x8MCUnRvwW7j_enGelhb1XweqJ7kuTtQIvLUZB1MfFQfwvPTnLm5P875hTLcnRMntutDAIevLgkvy6fb3Er3pjRsvGS9afuZ1X71VQk_c-3Iz0-NrR6Ef-ZmNDUK05jyXp20Gh4Q7o2RPE0yt=w442-h863-no?authuser=0)
+![responsive](https://lh3.googleusercontent.com/pw/ACtC-3dWyaWmdDYXXYJhAJo0SxePoxdm521UZx1jpQHvBSIWPWtWzr2y--VwuOx4guHjjzRJr8DmtDjBqRhvSy-BJOYxsb0e56xouW9drHBg65mR0Y7_88NLp6sVAgzLbKIluHebOOKM6spyShm0MbFcUU0U=w453-h879-no?authuser=0)
+![responsive2](https://lh3.googleusercontent.com/pw/ACtC-3eZ7V3x8MCUnRvwW7j_enGelhb1XweqJ7kuTtQIvLUZB1MfFQfwvPTnLm5P875hTLcnRMntutDAIevLgkvy6fb3Er3pjRsvGS9afuZ1X71VQk_c-3Iz0-NrR6Ef-ZmNDUK05jyXp20Gh4Q7o2RPE0yt=w442-h863-no?authuser=0)
 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
